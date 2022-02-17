@@ -21,7 +21,7 @@ import github.com.listaspring.repository.IPedido_Repository;
 
 @RestController
 @RequestMapping("/api/pedidos")
-@CrossOrigin("https://madmansdd.github.io/")
+@CrossOrigin("https://madmansdd.github.io")
 public class PedidoController {
 
 	@Autowired
